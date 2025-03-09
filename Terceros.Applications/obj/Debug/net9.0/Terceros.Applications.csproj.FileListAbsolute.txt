@@ -1,0 +1,14 @@
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\bin\Debug\net9.0\Terceros.Applications.deps.json
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\bin\Debug\net9.0\Terceros.Applications.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\bin\Debug\net9.0\Terceros.Applications.pdb
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\Terceros.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\Terceros.Applications.AssemblyInfoInputs.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\Terceros.Applications.AssemblyInfo.cs
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\Terceros.Applications.csproj.CoreCompileInputs.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\Terceros.Applications.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\refint\Terceros.Applications.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\Terceros.Applications.pdb
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\ref\Terceros.Applications.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\Terceros.Applications.csproj.AssemblyReference.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\Terceros.Applications.Resources.MessagesResouces.resources
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Applications\obj\Debug\net9.0\Terceros.Applications.csproj.GenerateResource.cache

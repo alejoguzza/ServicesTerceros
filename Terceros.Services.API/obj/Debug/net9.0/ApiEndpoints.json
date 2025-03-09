@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Terceros.Services.API.Controllers.PeopleController",
+    "Method": "Get",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Terceros.Applications.Generic.Responses\u00601[[Terceros.Applications.Responses.People.PeopleResponse, Terceros.Applications, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

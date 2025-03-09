@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B36F8E-7BE2-4BC0-BAD7-DC643C9067EC}|Terceros.Services.API.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.services.api\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B36F8E-7BE2-4BC0-BAD7-DC643C9067EC}|Terceros.Services.API.csproj|solutionrelative:controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\interfaces\\common\\ilogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B876A-F34E-4729-A5ED-AFA7203F559B}|..\\Terceros.Services\\Terceros.Services.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.services\\people\\peopleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B36F8E-7BE2-4BC0-BAD7-DC643C9067EC}|Terceros.Services.API.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.services.api\\extensions\\iinjectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B36F8E-7BE2-4BC0-BAD7-DC643C9067EC}|Terceros.Services.API.csproj|solutionrelative:extensions\\iinjectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\interactors\\common\\logservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\interactors\\people\\peopleinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\mappers\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\responses\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\generic\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\dtos\\people\\peopledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B36F8E-7BE2-4BC0-BAD7-DC643C9067EC}|Terceros.Services.API.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.services.api\\extensions\\iservicescollectionsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B36F8E-7BE2-4BC0-BAD7-DC643C9067EC}|Terceros.Services.API.csproj|solutionrelative:extensions\\iservicescollectionsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\responses\\people\\peopleresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\responses\\people\\resultresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\dtos\\people\\socialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\responses\\people\\socialresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\responses\\people\\supportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B36F8E-7BE2-4BC0-BAD7-DC643C9067EC}|Terceros.Services.API.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.services.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51B36F8E-7BE2-4BC0-BAD7-DC643C9067EC}|Terceros.Services.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B876A-F34E-4729-A5ED-AFA7203F559B}|..\\Terceros.Services\\Terceros.Services.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.services\\terceros.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77EA5A6-0BCD-4199-B9BC-7049C0924168}|..\\Terceros.Applications\\Terceros.Applications.csproj|c:\\desarrollos\\csharp\\proyectos\\microservicioterceros\\terceros.applications\\terceros.applications.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogServices.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Interactors\\Common\\LogServices.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Interactors\\Common\\LogServices.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Interactors\\Common\\LogServices.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Interactors\\Common\\LogServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:59:57.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILogServices.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Interfaces\\Common\\ILogServices.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Interfaces\\Common\\ILogServices.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Interfaces\\Common\\ILogServices.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Interfaces\\Common\\ILogServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:58:32.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Responses.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Generic\\Responses.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Generic\\Responses.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Generic\\Responses.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Generic\\Responses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:26:38.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\Common\\Response.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Responses\\Common\\Response.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\Common\\Response.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Responses\\Common\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:40:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Mappers\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Mappers\\MapperProfile.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Mappers\\MapperProfile.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Mappers\\MapperProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:28:46.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PeopleInteractor.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Interactors\\People\\PeopleInteractor.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Interactors\\People\\PeopleInteractor.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Interactors\\People\\PeopleInteractor.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Interactors\\People\\PeopleInteractor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:44:46.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInjectionExtensions.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services.API\\Extensions\\IInjectionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\IInjectionExtensions.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services.API\\Extensions\\IInjectionExtensions.cs",
+              "RelativeToolTip": "Extensions\\IInjectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:05:07.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services.API\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services.API\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:36:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeopleServices.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services\\People\\PeopleServices.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Services\\People\\PeopleServices.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services\\People\\PeopleServices.cs",
+              "RelativeToolTip": "..\\Terceros.Services\\People\\PeopleServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:17:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SocialResponse.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\People\\SocialResponse.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Responses\\People\\SocialResponse.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\People\\SocialResponse.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Responses\\People\\SocialResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:31:53.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServicesCollectionsExtension.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services.API\\Extensions\\IServicesCollectionsExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\IServicesCollectionsExtension.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services.API\\Extensions\\IServicesCollectionsExtension.cs",
+              "RelativeToolTip": "Extensions\\IServicesCollectionsExtension.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAnwEYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:05:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PeopleDTO.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\DTOs\\People\\PeopleDTO.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\DTOs\\People\\PeopleDTO.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\DTOs\\People\\PeopleDTO.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\DTOs\\People\\PeopleDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA3wBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:35.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PeopleResponse.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\People\\PeopleResponse.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Responses\\People\\PeopleResponse.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\People\\PeopleResponse.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Responses\\People\\PeopleResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:30:43.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SupportResponse.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\People\\SupportResponse.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Responses\\People\\SupportResponse.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\People\\SupportResponse.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Responses\\People\\SupportResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:31:22.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SocialDTO.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\DTOs\\People\\SocialDTO.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\DTOs\\People\\SocialDTO.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\DTOs\\People\\SocialDTO.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\DTOs\\People\\SocialDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:31:44.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultResponse.cs",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\People\\ResultResponse.cs",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Responses\\People\\ResultResponse.cs",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Responses\\People\\ResultResponse.cs",
+              "RelativeToolTip": "..\\Terceros.Applications\\Responses\\People\\ResultResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:33:13.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T15:17:45.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Terceros.Services",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services\\Terceros.Services.csproj",
+              "RelativeDocumentMoniker": "..\\Terceros.Services\\Terceros.Services.csproj",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Services\\Terceros.Services.csproj",
+              "RelativeToolTip": "..\\Terceros.Services\\Terceros.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T14:48:47.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Terceros.Applications.csproj",
+              "DocumentMoniker": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Terceros.Applications.csproj",
+              "RelativeDocumentMoniker": "..\\Terceros.Applications\\Terceros.Applications.csproj",
+              "ToolTip": "C:\\Desarrollos\\CSharp\\Proyectos\\MicroServicioTerceros\\Terceros.Applications\\Terceros.Applications.csproj",
+              "RelativeToolTip": "..\\Terceros.Applications\\Terceros.Applications.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T21:00:09.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\bin\Debug\net9.0\Terceros.Infratructura.deps.json
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\bin\Debug\net9.0\Terceros.Infratructura.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\bin\Debug\net9.0\Terceros.Infratructura.pdb
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\obj\Debug\net9.0\Terceros.Infratructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\obj\Debug\net9.0\Terceros.Infratructura.AssemblyInfoInputs.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\obj\Debug\net9.0\Terceros.Infratructura.AssemblyInfo.cs
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\obj\Debug\net9.0\Terceros.Infratructura.csproj.CoreCompileInputs.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\obj\Debug\net9.0\Terceros.Infratructura.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\obj\Debug\net9.0\refint\Terceros.Infratructura.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\obj\Debug\net9.0\Terceros.Infratructura.pdb
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Infratructura\obj\Debug\net9.0\ref\Terceros.Infratructura.dll

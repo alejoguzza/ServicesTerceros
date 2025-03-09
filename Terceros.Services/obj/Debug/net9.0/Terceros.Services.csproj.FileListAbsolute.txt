@@ -1,0 +1,15 @@
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\bin\Debug\net9.0\Terceros.Services.deps.json
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\bin\Debug\net9.0\Terceros.Services.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\bin\Debug\net9.0\Terceros.Services.pdb
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\bin\Debug\net9.0\Terceros.Applications.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\bin\Debug\net9.0\Terceros.Applications.pdb
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\Terceros.Services.csproj.AssemblyReference.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\Terceros.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\Terceros.Services.AssemblyInfoInputs.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\Terceros.Services.AssemblyInfo.cs
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\Terceros.Services.csproj.CoreCompileInputs.cache
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\Terceros.78D9993B.Up2Date
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\Terceros.Services.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\refint\Terceros.Services.dll
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\Terceros.Services.pdb
+C:\Desarrollos\CSharp\Proyectos\MicroServicioTerceros\Terceros.Services\obj\Debug\net9.0\ref\Terceros.Services.dll

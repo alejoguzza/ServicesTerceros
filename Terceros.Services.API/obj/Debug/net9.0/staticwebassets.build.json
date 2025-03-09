@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Rm5o05PW84CCa8YWXOwdpnWOXa3y7UTJVOoCZpVLqxI=",
+  "Source": "Terceros.Services.API",
+  "BasePath": "_content/Terceros.Services.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
